@@ -1,6 +1,0 @@
-streamlit
-pandas
-plotly
-wrds
-psycopg2-binary
-statsmodels
